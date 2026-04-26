@@ -6,7 +6,6 @@
 
 **Predictive Parking Marketplace** is a high-performance, AI-driven mobile application designed to eliminate urban parking stress. By combining P2P commerce with real-time predictive analytics and a "Zero-UI" driving experience, it transforms how people find and book parking in congested cities like Chandigarh and Mumbai.
 
----
 
 ## 🌟 Key Features
 
